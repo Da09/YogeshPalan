@@ -5,7 +5,7 @@ function sendMail(){
         Host: "smtp.gmail.com", 
         Username: "testmailsendjs@gmail.com", 
         Password: "testmailsendjs123", 
-        To: "akashmane101b@gmail.com", 
+        To: "ypalan@hotmail.com", 
         From: "testmailsendjs@gmail.com", 
         Subject: "Email sent by portfolio", 
         Body: "Name: "+ document.getElementById("senderName").value +" from:"+document.getElementById("senderEmail").value+"  message:"+a , 
